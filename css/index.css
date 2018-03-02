@@ -746,7 +746,6 @@ header{
 .anli_content_di1_dt{
 	width: 266px;
 	height: 245px;
-	background-color: red;
 	position: absolute;
 	right: 8px;
 	bottom: -90px;
@@ -1144,4 +1143,120 @@ header{
 .chpi_content1:nth-child(5),.chpi_content1:nth-child(6),
 .chpi_content1:nth-child(7),.chpi_content1:nth-child(8){
 	margin-top: 30px;
+}
+
+/* 公司简介 */
+.gsjj_content1{
+	width: 1200px;
+	height: 502px;
+	margin: 64px auto 0;
+	padding-left: 120px;
+	padding-right: 95px;
+}
+.gsjj_content1_1{
+	width: 472px;
+	height: 60px;
+}
+.gsjj_content1_11{
+	height: 60px;
+	width: 350px;
+	float: right;
+}
+.gsjj_content1_12{
+	margin-right: 0;
+}
+.gsjj_content1_11 p{
+	font-size: 22px;
+	font-family: "微软雅黑regular";
+	font-weight: bold; 
+}
+.gsjj_content1_11 span{
+	font-size: 20px;
+	font-family: "微软雅黑light";
+	
+}
+.gsjj_content1_2{
+	width: 988px;
+	/* height: 2px; */
+	/* background-color: black; */
+	margin-top: 39px;
+	border-top: dashed 2px black ;
+}
+.gsjj_content1_3{
+	height: 16px;
+	margin-top: 29px;
+	overflow: hidden;
+}
+.gsjj_content1_31{
+	width: 9px;
+	height: 9px;
+	float: left;
+	background-color: black;
+	margin-top: 5px;
+	margin-right: 14px;
+}
+.gsjj_content1_32{
+	line-height: 16px;
+	font-family: "微软雅黑regular";
+	font-size: 16px;
+	font-weight: bold;
+	float: left;
+	margin-right: 10px;
+}
+.gsjj_content1_33{
+	font-size: 16px;
+	float: left;
+	line-height: 16px;
+	font-family: "arial regular";
+	color: #C3C3C3;
+}
+.gsjj_content1_4{
+	width: 100%;
+	margin-top: 25px;
+	color: #7A7A7A;
+	font-family: "微软雅黑regular";
+	font-size: 14px;
+	padding-left: 24px;
+	font-weight: bold;
+}
+.gsjj_content1_5{
+	width: 486px;
+	height: 90px;
+	margin-top: 38px;
+	font-family: "微软雅黑regular";
+	font-size: 14px;
+	padding-left: 24px;
+	color: #7A7A7A;
+
+}
+.gsjj_content2{
+	width: 100%;
+	height: 283px;
+	margin-top: 52px;
+	position: relative;
+}
+.gsjj_content21{
+	width: 68%;
+	height: 283px;
+	float: left;
+}
+.gsjj_content22{
+	width: 68%;
+	height: 283px;
+	position: absolute;
+	right: 0;
+	bottom: -98px;
+}
+.gsjj_content3{
+	width: 1200px;
+    height: 440px;
+    margin: 145px auto 40px;
+    padding-left: 120px;
+    padding-right: 95px;
+}
+.gsjj_content31{
+	font-weight: normal;
+}
+.gsjj_content3_31{
+	background-color: #7C7268;
 }
